@@ -1,6 +1,6 @@
 # Bot Framework Samples
 
-This repo is for Bot Builder SDK V4 samples. 
+This repo is for Bot Builder SDK samples. 
 
 ## Contributing
 
